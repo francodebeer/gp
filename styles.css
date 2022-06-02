@@ -104,7 +104,7 @@ ul.skills {
   text-align: center;
 }
 
-.skills li {
+.Beliefs li {
   border-radius: 6px;
   display: inline-block;
   background: #ff9904;
@@ -113,7 +113,7 @@ ul.skills {
   margin: 2px;
 }
 
-.skills li:nth-child(odd) {
+.Beliefs li:nth-child(odd) {
   background: #0399ff;
 }
 
