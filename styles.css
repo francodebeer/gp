@@ -16,7 +16,7 @@ body {
 
 a {
   text-decoration: none;
-  color:black;
+  color:white;
 }
 a:hover {
   color: #6633ff;
@@ -33,7 +33,7 @@ a:hover {
   text-align: centr;
 }
 .nav {
-  colour:white;
+  
   display: flex;
   justify-content: space-around;
   font-weight: 700;
