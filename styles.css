@@ -33,6 +33,7 @@ a:hover {
   text-align: centr;
 }
 .nav {
+  colour:white;
   display: flex;
   justify-content: space-around;
   font-weight: 700;
