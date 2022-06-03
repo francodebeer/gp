@@ -2,24 +2,7 @@
 * {
   box-sizing: border-box;
 }
-a.button:visited
-{
- color:white;
-}
-.button
-{
- padding: 6px 8px;
- font-size: 14px;
- font-weight: bold;
- text-decoration: none;
- margin-right: 10px;
- border-radius: 6px;
-}
-.limegreen
-{
- border: 1px solid #2d748c;
- background-color:limegreen;
-}
+
 
 body {
   margin: 0;
